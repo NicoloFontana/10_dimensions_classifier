@@ -54,6 +54,6 @@ def glove4gensim(file_dir):
 
 if __name__=='__main__':
     # the file should be stored in weights/embeddings/
-    glove4gensim('weights/embeddings/glove.840B.300d.txt') # change file name if using different embeddings
+    glove4gensim('C:\\Users\\fonta\\PycharmProjects\\10_dimensions_classifier\\weights\\embeddings\\glove.840B.300d.txt') # change file name if using different embeddings
     # for example, if you downloaded the glove.42B.300d.zip instead, change the input of this function to the .txt file extracted from there.
 
