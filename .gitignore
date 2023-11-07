@@ -1,2 +1,5 @@
 /.idea
 /weights
+/cache
+/data/sentiment140
+/data/cornell_reddit_corpus_small
